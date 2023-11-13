@@ -1,4 +1,4 @@
-#from __future__ import print_function
+false = False
 import argparse
 import torch
 import torch.nn as nn
